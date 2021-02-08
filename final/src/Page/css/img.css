@@ -1,0 +1,83 @@
+.img-style img{
+    width: 100%;
+}
+.abouthomepage{
+    margin-top: 10%;
+}
+.img-kmeow{
+    overflow: hidden;
+    width: 100%;
+}
+.img-kmeow img{
+    width: 100%;
+    transition: all 0.3s;
+    display: block;
+    transform: scale(1);
+}
+.img-kmeow:hover img{
+    transform: scale(1.1);
+}
+.abouthomepage {
+    margin-bottom: 10%;
+}
+.content-about button{
+    font-size: 50px;
+    background-color: aliceblue;
+    border: 1px solid white;
+    color: rgb(60, 177, 255);
+    margin-bottom: 10%;
+}
+
+.col-border img{
+    width: 100%;
+    margin: 10%;
+}
+.price {
+    font-size: 20px;
+    text-align: center;
+
+}
+.price a:hover{    
+    color: rgb(87, 255, 115);
+}
+.wrape {
+    margin-top: 10%;
+}
+.col-blog{
+    overflow: hidden;
+    width: 100%;
+}
+.col-blog img{
+    width: 100%;
+    transform: scale(1);
+    transition: all 0.3s;
+    display: block;
+    margin-right: 10%;
+}
+.col-blog:hover img{
+    transform: scale(1.1);
+}
+.blog-text {
+    font-size: 20px;
+}
+.mess-content{
+    font-size: 20px;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.mess-text {
+    font-size: 20px;
+
+}
+.wrap-color{
+    background-color: rgb(250, 250, 250);
+    border: 1px solid white;
+    border-radius: 25px;
+    margin-top: 10%;
+}
+.each-slide img {
+    width: 100%;
+}
+.each-fade img{
+    width: 100%;
+}
